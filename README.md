@@ -21,8 +21,10 @@
 </p> -->
 
 <h2 align="left">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-- Backend
 <br>
+
+- Backend
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,py,express,graphql" />
