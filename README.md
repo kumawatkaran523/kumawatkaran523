@@ -1,15 +1,9 @@
+![Header](./public/header.png)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&height=100&font=40&lines=Hi+there+👋,+I+am+Karan+Kumawat;Open+Source+Contributor;+I+love+leveraging+tech+to+solve+realworld+complex+problems;+Full+Stack+Developer+proficient+in+React,+Next.js,+Node.js;+Blockchain+Enthusiast;Experience+in+writing+smart+contract+)](https://git.io/typing-svg)
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;  This+is+Karan+Kumawat....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/karan-kumawat-26770b24a/" title="LinkedIn Profile"><img src="https://skillicons.dev/icons?i=linkedin" /></a></code>
-    <code><a href="https://x.com/KaranKu33693483" title="Twitter Profile"><img src="https://skillicons.dev/icons?i=twitter" /></a></code>
-</h5>
 <br>
 <p align="center">
   Hi, I'm Karan Kumawat, Pre-final CSE Undergrad student
@@ -20,6 +14,10 @@
   📚 I’m currently diving deep into blockchain technology
   <br>
   📫 How to reach me: <a href="mailto: kumawatkaran523@gmail.com">kumawatkaran523@gmail.com</a>
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/karan-kumawat-26770b24a/" title="LinkedIn Profile"><img src="https://skillicons.dev/icons?i=linkedin" /></a></code>
+    <code><a href="https://x.com/KaranKu33693483" title="Twitter Profile"><img src="https://skillicons.dev/icons?i=twitter" /></a></code>
+</h5>
 </p>
 
 <hr>
