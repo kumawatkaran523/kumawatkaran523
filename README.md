@@ -21,8 +21,8 @@
 </p> -->
 
 <h2 align="left">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
 - Backend
+<br>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,py,express,graphql" />
@@ -43,14 +43,14 @@
   </a>
 </p>
 
--Tools
+- Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,vim,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,postman,linux,arch," />
   </a>
 </p>
 
--Language
+- Language
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,solidity" />
