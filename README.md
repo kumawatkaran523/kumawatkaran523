@@ -1,4 +1,4 @@
-![Header](./public/Screenshot From 2025-04-17 11-58-16.png)
+![Header](./public/header2)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&height=50&font=40&lines=Hi+there+👋,+I+am+Karan+Kumawat;Open+Source+Contributor;+I+love+leveraging+tech+to+solve+realworld+complex+problems;+Full+Stack+Developer+proficient+in+React,+Next.js,+Node.js;+Blockchain+Enthusiast;Experience+in+writing+smart+contract+)](https://git.io/typing-svg)
 <!-- 
