@@ -23,42 +23,12 @@
 <h2 align="left">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 
-- Backend
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,py,express,graphql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,py,express,graphql,ts,js,react,nextjs,redux,tailwind,materialui,mongodb,mysql,postgresql,git,github,vscode,vim,postman,linux,arch,c,cpp,py,solidity" />
   </a>
 </p>
-
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
-  </a>
-</p>
-
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-  </a>
-</p>
-
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,postman,linux,arch," />
-  </a>
-</p>
-
-- Language
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,solidity" />
-  </a>
-</p>
-
 
 <hr>
 
